@@ -1,0 +1,67 @@
+--- 
+vi: 
+  allow_anon_access: "Cho phép xem bài không cần đăng nhập?"
+  allow_sort_category_tree: "Sắp xếp thể loại theo alphabet?"
+  field_tag_list: "Tag List"
+  knowledgebase_title: "Bài viết"
+  label_article_created: "Bài viết '%{title}' đã được tạo"
+  label_article_plural: Các bài viết
+  label_article_removed: "Bài viết đã bị xóa"
+  label_article_updated: "Bài viết đã được cập nhật"
+  label_article_viewed: 
+    one: "Đã được xem 1 lần"
+    other: "Đã được xem %{count} lần"
+  label_category: Thể loại
+  label_category_created: "Thể loại '%{title}' đã được tạo"
+  label_category_deleted: "Thể loại đã bị xóa"
+  label_category_not_empty_cannot_delete: "Không thể xóa các Thể loại có tồn tại bài viết."
+  label_category_plural: Thể loại
+  label_category_updated: "Thể loại được cập nhật"
+  label_content: Nội dung
+  label_delete_article: Xóa
+  label_delete_category: "Xóa thể loại"
+  label_description: Mô tả
+  label_edit_article: Chỉnh sửa
+  label_edit_category: "Chỉnh sửa thể loại"
+  label_jump_category: "Chuyển đến Thể loại"
+  label_kb_home: Trang chính
+  label_kb_link: "KB#{{kb_id}}"
+  label_new_article: "Bài viết mới"
+  label_new_category: "Thể loại"
+  label_new_comment: "Bình luận mới"
+  label_parent_category: "Thể loại cấp cao"
+  label_root_category: "Thể loại cấp cao nhất"
+  label_subcategories: Thể loại con
+  label_summary: Tóm tắt
+  label_summary_newest_articles: "Được tạo cách đây %{ago} trong %{category}"
+  label_summary_popular_articles: 
+    one: "Được xem 1 lần từ %{created}"
+    other: "Được xem %{count} lần từ %{created}"
+  label_summary_toprated_articles: 
+    one: "Rating: %{rating_avg}/%{rating_max} from one vote"
+    other: "Rating: %{rating_avg}/%{rating_max} from %{count} votes"
+  label_summary_updated_articles: "Updated %{ago} ago"
+  label_title: Tựa đề
+  label_title_articles: Bài viết
+  label_title_category: Thể loại
+  message_no_articles: "Chưa có bài viết nào được thêm vào"
+  show_category_totals: "Hiện tất cả các thể loại trong cây?"
+  summary_item_limit: "Knowledgebase summary page article limit"
+  title_add_comment: "Add Comment"
+  title_article_rating: "Article Rating"
+  title_browse_by_category: "Duyệt theo Thể loại"
+  title_create_article: "Tạo bài viết mới"
+  title_create_category: "Tạo thể loại"
+  title_edit_article: "Chỉnh sửa Bài viết"
+  title_edit_category: "Chỉnh sửa Thể loại"
+  title_most_popular_articles: "Các bài viết phổ biến nhất"
+  title_new_category: "Thể loại mới"
+  title_newest_articles: "Bài viết mới nhất"
+  title_recently_updated_articles: "Các bài viết vừa được cập nhật"
+  title_tagged_articles: "Bài viết được đánh dấu %{tag}"
+  title_tags: Đánh dấu
+  title_top_rated_articles: "Các bài viết được đánh giá cao nhất"
+  title_votes: 
+    one: "1 phiếu bầu"
+    other: "%{count} phiếu bầu"
+    zero: "chưa có phiếu bầu"
